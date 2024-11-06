@@ -1,4 +1,4 @@
-#This code will help you copy files into a folder when you haev multiple origin directories
+#This code will help you copy files into a folder when you have multiple origin directories
 
 #This will clean your previous elements from the workspace
 rm(list = ls())
