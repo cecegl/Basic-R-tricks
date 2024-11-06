@@ -1,8 +1,5 @@
 #This code will help you copy files into a folder when you have multiple origin directories
 
-#This will clean your previous elements from the workspace
-rm(list = ls())
-
 #This will create a list of directory paths to all the subfolders in your main directory
 dir_path <- list.dirs(path = "path to main repository (with multiple folders)",
                       recursive = FALSE)
