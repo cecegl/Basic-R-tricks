@@ -2,7 +2,7 @@
 
 #### *Don't worry, it happens to the best of us...*
 
-#### BUT, Look no further!
+#### BUT, look no further!
 
 Here I will compile **tiny code chunks** that helped me with rutinary stuff such as moving files from one folder to another, deleting stuff I don't want, etc
 
