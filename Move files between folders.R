@@ -1,6 +1,6 @@
 #This will move your files from one folder to another
-#Beware that this will erase files from your origin folder
-#If you won't to avoid this maybe you should copy them (try file.copy with the same syntax as file.rename to do that)
+#Beware that this will erase files from your original folder
+#If you want to avoid this maybe you should copy them (try replacing file.rename for file.copy using the same syntax to do that)
 
 current_directory <- list.files(path = "your origin directory",
                                pattern = "your files extension (.csv, .txt, etc)",
